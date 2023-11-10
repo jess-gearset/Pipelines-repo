@@ -18,11 +18,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Onboarding__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Asset.AccountId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4171,8 +4166,4 @@
         <enabled>true</enabled>
         <name>WorkCalibrationUser</name>
     </userPermissions>
-    <classAccesses>
-        <apexClass>AccountHandler</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
 </Profile>
